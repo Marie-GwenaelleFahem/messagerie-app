@@ -10,7 +10,7 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <div className='sidebar__header'>
-        <Avatar src='https://tolkiengateway.net/w/images/f/f3/Matt_Stewart_-_Galadriel.jpg' />
+        <Avatar src='https://i.pinimg.com/564x/92/97/a9/9297a9e8cafcac9f912b2969dac55e14.jpg' />
 
         <IconButton>
             <DonutLarge />

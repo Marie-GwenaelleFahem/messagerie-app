@@ -6,11 +6,11 @@ const SidebarChat = () => {
 
     return (
         <div className='sidebarChat'>
-            <Avatar src='https://static.wikia.nocookie.net/seigneur-des-ann…/revision/latest?cb=20140206125930&path-prefix=fr'/>
+            <Avatar src='https://www.goodfreephotos.com/albums/other-photos/lord-of-the-rings-the-one-ring.jpg'/>
 
             <div className='sidebarChat__info'>
                 <h2>Room name</h2>
-                <p>Last message</p>
+                <p>Last message...</p>
             </div>
         </div>
     )
